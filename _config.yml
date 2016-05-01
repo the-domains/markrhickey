@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: markrhickey
+favicon: null
+layout_spectrum: 0.50587
+typography_spectrum: 0.5268817
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8211014473345131
-  brandStrength: 1
-  lightness: 0.65069101145491
   brandColors:
     - '#9C958D'
     - '#212121'
     - '#BDC0C9'
     - '#465C83'
     - '#423D39'
+  brandStrength: 1
+  lightness: 0.65069101145491
+  saturation: 0.8211014473345131
   rhythmicContrast: 0.444294617511332
-typography_spectrum: 0.5268817
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
-name: markrhickey
+purpose: []
