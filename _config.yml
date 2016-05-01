@@ -1,0 +1,28 @@
+name: markrhickey
+favicon: null
+layout_spectrum: 0.32123702857643366
+typography_spectrum: 0.7956267383415252
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18511211057193577
+  lightness: 0.65069101145491
+  saturation: 0.8211014473345131
+  rhythmicContrast: 0.44429461751133204
+purpose: []
